@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
       <Router>
-      {/*navbar not added to switch */}
+      {/*navbar not added to switch as we want it to always be there*/}
         <Navbar/>
         <Switch>
           <Route exact path="/">
