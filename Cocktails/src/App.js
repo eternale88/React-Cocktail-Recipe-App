@@ -25,8 +25,8 @@ function App() {
             <SingleCocktail/>
           </Route>
           <Route path="*">
-          <Error/>
-        </Route>
+            <Error/>
+          </Route>
         </Switch>
       </Router>
     </div>
