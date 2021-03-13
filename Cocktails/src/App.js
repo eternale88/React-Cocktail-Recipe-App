@@ -7,7 +7,7 @@ import SingleCocktail from './pages/SingleCocktail'
 import Error from './pages/Error'
 // import components
 import Navbar from './components/Navbar'
-import Cocktail from './components/Cocktail'
+//import Cocktail from './components/Cocktail'
 function App() {
   return (
     <div>
