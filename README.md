@@ -4,7 +4,7 @@ Hosted for continuous deployment on Netlify [https://excellent-react-drink-recip
 
 ## Synopsis
 
-A React recipe drink recipe app I  built with  React v16, HTML5, CSS. Using this api [https://www.thecocktaildb.com/api.php] - It allows a user to search for drinks returning a filtered list multiple options. There is a single page view for each individual drink. I've implemented React router for the pages, and for redirection. It uses Context Api for global state management, React Hooks for internal component state management. Hooks used, useCallback, useState, useEffect, useRef, useParam.
+A React recipe drink recipe app I  built with  React v16, HTML5, CSS. Using this [click here](https://www.thecocktaildb.com/api.php) - It allows a user to search for drinks returning a filtered list multiple options. There is a single page view for each individual drink. I've implemented React router for the pages, and for redirection. It uses Context Api for global state management, React Hooks for internal component state management. Hooks used, useCallback, useState, useEffect, useRef, useParam.
 
 
 ## Motivation
